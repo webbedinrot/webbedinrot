@@ -8,6 +8,7 @@
 
 <p align="center">$\color{#90302F}{\textsf{ May/Tony | she/they | 16yo | lesbian }}$ 
 <p align="center">$\color{#90302F}{\textsf{ Tony Stark kin!! (he's so me)}}$ 
+<p align="center">$\color{#90302F}{\textsf{ I love winteriron and pepperony (other ships int aswell!!)}}$ 
 
 <p align="center">$\color{#402034}{\textsf{ the rot in my name is a ref to my main... }}$ 
 
