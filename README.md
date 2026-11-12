@@ -1,6 +1,8 @@
 <p align="center"><img src="https://ajajajuh.carrd.co/assets/images/image25.png?v=8ed9d11d">
 
 
+<p align="center">$\color{#90302F}{\textsf{ Ponytown's }}$ 
+<a href="https://github.com/piddlesjet">Bucky Barnes and Tony Stark</a>
 
 <p align="center">$\color{#90302F}{\textsf{ "Wake up, daddy's home." }}$ 
 
