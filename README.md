@@ -14,7 +14,7 @@
 
 <p align="center">$\color{#402034}{\textsf{ the rot in my name is a ref to my main... }}$ 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=webbedinrot&color=89B1BD&style=flat-square&label=Arc_reactors" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=webbedinrot&color=89B1BD&style=plastic&label=Arc_reactors&abbreviated=true" />
 
 <p align="center"><img src="https://ajajajuh.carrd.co/assets/images/image27.png?v=8ed9d11d">
 
