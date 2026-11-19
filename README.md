@@ -1,25 +1,50 @@
-<p align="center"><img src="https://ajajajuh.carrd.co/assets/images/image25.png?v=8ed9d11d">
+<p align="center">
 
+  <img src="https://ajajajuh.carrd.co/assets/images/image28.png?v=765eb991" width=600>
+
+  <br />
+    <br />
+      <br />
 
 <p align="center">$\color{#90302F}{\textsf{ Ponytown's }}$ 
 <a href="https://github.com/piddlesjet">Bucky Barnes and Tony Stark</a>
 
 <p align="center">$\color{#90302F}{\textsf{ "Wake up, daddy's home." }}$ 
 
-<p align="center"><img src="https://ajajajuh.carrd.co/assets/images/image24.png?v=8ed9d11d">
+ <br/>
+  <br />
+    <br />
+    
+<p align="center">
 
-<p align="center">$\color{#90302F}{\textsf{ May/Tony | she/they | 16yo | lesbian }}$ 
-<p align="center">$\color{#90302F}{\textsf{ Tony Stark kin!! (he's so me)}}$ 
-<p align="center">$\color{#90302F}{\textsf{ any ship that isn't illegal or weird int!}}$ 
+  <img src="https://ajajajuh.carrd.co/assets/images/image29.png?v=765eb991" width=600>
 
-<p align="center">$\color{#402034}{\textsf{ the rot in my name is a ref to my main... }}$ 
+ </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=webbedinrot&color=89B1BD&style=plastic&label=Arc_reactors&abbreviated=true" />
+  <br/>
+   <br/>
+    <br/>
+     <br/>
+      <br/>
 
-<p align="center"><img src="https://ajajajuh.carrd.co/assets/images/image27.png?v=8ed9d11d">
+<p align="left">
+
+ <img src="https://ajajajuh.carrd.co/assets/images/image30.png?v=765eb991" width=400>
+
+</p>
+
+
 
 <p align="center">
- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3qdgmtgces9wrpq2r6qcytgj9&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3qdgmtgces9wrpq2r6qcytgj9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=322f2f&interchange=false&profanity=false&hide_remaster=false&bar_color=a06e78&bar_color_cover=false">
-  </a>
-</p>
+    <br>
+    <br>
+    <table style="width:100%">
+    <tr>
+     <td>
+     <br>
+      <br>
+      <div align="center">
+
+$\color{#90302F}{\textsf{May/Tony}}$  $\color{#90302F}{\textsf{she/they}}$ $\color{#90302F}{\textsf{16yo}}$  $\color{#90302F}{\textsf{lesbian }}$ 
+$\color{#90302F}{\textsf{ Tony Stark kin!! (he's so me)}}$ 
+<img src="https://komarev.com/ghpvc/?username=webbedinrot&color=89B1BD&style=plastic&label=Arc_reactors&abbreviated=true" />
