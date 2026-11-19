@@ -42,7 +42,7 @@
       <br>
       <div align="center">
        <br>
-       $\color{#AFB8BC}{\textsf{⎊⍟}}
+       $\color{#AFB8BC}{\textsf{⎊⍟}}$
        <br>
        $\color{#5A6E76}{\textsf{May/Tony}}$ $\color{#5A6E76}{\textsf{|}}$  $\color{#5A6E76}{\textsf{she/they}}$
        <br>
