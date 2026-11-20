@@ -57,7 +57,7 @@ $\color{#7A8F94}{\textsf{ Ponytown's}}$ <a href="https://github.com/piddlesjet">
 <br>
   <br>
     <br>
-      <br>
+    
 <p align="center">$\color{#7A8F94}{\textsf{ Links!}}$
 
   <br>
