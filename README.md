@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1668" height="151" alt="3A9C01F1-85C6-4F7A-9E30-E1763C59664B" src="https://github.com/user-attachments/assets/efb7cd99-669b-428b-8d81-558aa25f4dea" />
+  <img width="1668" height="151" src="https://i.imgur.com/qc6Asxb.png">
 </p>
 
 <br>
@@ -97,5 +97,5 @@ $\color{#7A8F94}{\textsf{ Ponytown's}}$ <a href="https://github.com/piddlesjet">
    <br>
 
 <p align="center">
-  <img width="1668" height="151" alt="6F2FD2C0-4D7F-4335-9AE5-F168D6735306" src="https://github.com/user-attachments/assets/a166dc03-b225-423b-845c-ab7a954b351f" />
+  <img width="1668" height="151" src="https://i.imgur.com/ZeN6zJf.png" />
 </p>
