@@ -10,8 +10,11 @@
 <p align="center">$\color{#506C74}{\textsf{ ꉂ(˵˃ ᗜ ˂˵) }}$ 
 
 <p align="center">
-$\color{#7A8F94}{\textsf{ Ponytown's}}$ <a href="https://github.com/piddlesjet">Bucky Barnes and Tony Stark</a>
-
+$\color{#7A8F94}{\textsf{ Ponytown's}}$ 
+  <br>
+    <sup><a href="https://github.com/piddlesjet">Bucky Barnes and Tony Stark</a></sup>
+  <br>
+    <sup><a href="https://github.com/marvelous-pt">Bucky Barnes</a></sup>
 
 
 <div style="text-align: center;" align="center">
